@@ -1,6 +1,6 @@
 #### Linear Regression Model
 
-##Description
+## Description
 This is a simple linear regression model to predict sales based on TV marketing expenses. This model investigates 3 approaches namely
 - Linear Regression
 - Random Forests
